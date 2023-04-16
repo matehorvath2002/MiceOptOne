@@ -8,7 +8,7 @@ MiceOptOne
 This function optimizes the missing values of a nummeric variable of a dataset
 }
 \usage{
-MiceOptOne(x)
+MiceOptOne(df, x)
 }
 MiceOptOne(df = Dataset, x = Number of column)
 \arguments{
